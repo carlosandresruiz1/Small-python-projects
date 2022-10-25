@@ -1,6 +1,3 @@
-from secrets import choice
-from tkinter import N
-
 
 def add (a,b):
     answer = a+b
